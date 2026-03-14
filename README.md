@@ -31,7 +31,12 @@ This project analyzes bank loan data and presents insights using an interactive 
 Financial Loan Dataset
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+
+### Summary Dashboard
+![Summary Dashboard](summary_dashboard.png)
+
+### Overview Dashboard
+![Overview Dashboard](overview_dashboard.png)
 
 ## Author
 Karasi Keerthana
